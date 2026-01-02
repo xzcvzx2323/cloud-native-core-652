@@ -1,0 +1,1 @@
+const service_kccg = <T>(args: T): T => { return args; };
